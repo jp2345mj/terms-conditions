@@ -11,36 +11,54 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background: linear-gradient(135deg, #ff6b9d, #c44569);
-            color: #333;
+            background: linear-gradient(135deg, #0F1437, #0F1437, #0F1437);
+            min-height: 100vh;
+            color: #fff;
         }
         .container {
-            background: white;
+            background: rgba(15, 20, 55, 0.95);
+            backdrop-filter: blur(10px);
             padding: 30px;
             border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            border: 2px solid #f093fb;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
         h1 {
-            color: #c44569;
+            color: #f093fb;
             text-align: center;
-            border-bottom: 3px solid #ff6b9d;
+            border-bottom: 3px solid #f093fb;
             padding-bottom: 10px;
+            text-shadow: 0 0 10px rgba(240, 147, 251, 0.3);
         }
         h2 {
-            color: #c44569;
+            color: #f093fb;
             margin-top: 30px;
+            text-shadow: 0 0 5px rgba(240, 147, 251, 0.2);
         }
         .version {
             text-align: center;
-            color: #666;
+            color: rgba(255, 255, 255, 0.7);
             font-style: italic;
             margin-bottom: 30px;
         }
         .highlight {
-            background-color: #fff5f8;
+            background: rgba(240, 147, 251, 0.1);
             padding: 15px;
-            border-left: 4px solid #ff6b9d;
+            border-left: 4px solid #f093fb;
+            border-radius: 8px;
             margin: 20px 0;
+            box-shadow: 0 0 10px rgba(240, 147, 251, 0.1);
+        }
+        p, li {
+            color: rgba(255, 255, 255, 0.9);
+        }
+        ul {
+            padding-left: 20px;
+        }
+        hr {
+            border: 1px solid #f093fb;
+            margin: 40px 0;
+            opacity: 0.5;
         }
     </style>
 </head>
@@ -184,11 +202,11 @@
 
         <p>By using this App, you acknowledge that you understand its purpose and agree to use it responsibly within your relationship.</p>
 
-        <hr style="margin: 40px 0; border: 1px solid #ff6b9d;">
+        <hr style="margin: 40px 0; border: 1px solid #ff6b9d; opacity: 0.5;">
         
-        <p style="text-align: center; color: #666; font-size: 14px;">
+        <p style="text-align: center; color: rgba(255, 255, 255, 0.6); font-size: 14px;">
             <em>These terms are effective as of the date shown above and replace any prior agreements.</em><br>
-            <strong>Couples Keeping It Hot v1.0</strong>
+            <strong style="color: #ff6b9d;">Couples Keeping It Hot v1.0</strong>
         </p>
     </div>
 </body>
