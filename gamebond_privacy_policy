@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy v1.0 - GameBond</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #0F1437, #0F1437, #0F1437);
+            min-height: 100vh;
+            color: #fff;
+        }
+        .container {
+            background: rgba(15, 20, 55, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 15px;
+            border: 2px solid #f093fb;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        h1 {
+            color: #f093fb;
+            text-align: center;
+            border-bottom: 3px solid #f093fb;
+            padding-bottom: 10px;
+            text-shadow: 0 0 10px rgba(240, 147, 251, 0.3);
+        }
+        h2 {
+            color: #f093fb;
+            margin-top: 30px;
+            text-shadow: 0 0 5px rgba(240, 147, 251, 0.2);
+        }
+        .version {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.7);
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .highlight {
+            background: rgba(240, 147, 251, 0.1);
+            padding: 15px;
+            border-left: 4px solid #f093fb;
+            border-radius: 8px;
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(240, 147, 251, 0.1);
+        }
+        p, li {
+            color: rgba(255, 255, 255, 0.9);
+        }
+        ul {
+            padding-left: 20px;
+        }
+        hr {
+            border: 1px solid #f093fb;
+            margin: 40px 0;
+            opacity: 0.5;
+        }
+        a {
+            color: #f093fb;
+            text-decoration: underline;
+        }
+        a:hover {
+            color: #ff6b9d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <div class="version">
+            <p><strong>Version:</strong> 1.0</p>
+            <p><strong>Last Updated:</strong> January 2025</p>
+            <p><strong>App:</strong> GameBond</p>
+        </div>
+
+        <div class="highlight">
+            <strong>Your Family's Privacy is Our Priority:</strong> We understand that family privacy is essential when using family bonding apps. This policy explains how we protect your personal information and respect your family's privacy while using GameBond.
+        </div>
+
+        <h2>1. Introduction</h2>
+        <p>This Privacy Policy describes how "GameBond" (the "App"), developed by Laae Collective LLC, collects, uses, and protects your information. We are committed to protecting your family's privacy and ensuring your personal information remains secure.</p>
+
+        <p>By using our App, you agree to the collection and use of information in accordance with this policy. We will not use or share your information except as described in this Privacy Policy.</p>
+
+        <h2>2. Information We Collect</h2>
+        <p>We collect different types of information to provide and improve our family gaming services:</p>
+
+        <p><strong>Account Information:</strong></p>
+        <ul>
+            <li>Email address (for account creation and support)</li>
+            <li>Account preferences and settings</li>
+            <li>App configuration settings (game preferences, customizations)</li>
+            <li>Family member names (stored locally for gameplay personalization)</li>
+        </ul>
+
+        <p><strong>Usage Information:</strong></p>
+        <ul>
+            <li>App usage patterns and feature interactions</li>
+            <li>Game statistics and progress (stored locally on your device)</li>
+            <li>Settings and preferences you configure</li>
+            <li>Technical information about crashes or errors</li>
+            <li>Which games and activities are most popular (anonymized data)</li>
+        </ul>
+
+        <p><strong>Device Information:</strong></p>
+        <ul>
+            <li>Device type and operating system</li>
+            <li>App version and technical specifications</li>
+            <li>Unique device identifiers (for technical support)</li>
+        </ul>
+
+        <div class="highlight">
+            <p><strong>What We DON'T Collect:</strong> We do not collect, store, or access any personal family conversations, photos, videos, or details about your private family activities. Your family moments remain completely private.</p>
+        </div>
+
+        <h2>3. How We Use Your Information</h2>
+        <p>We use the collected information for the following purposes:</p>
+
+        <ul>
+            <li><strong>Provide Services:</strong> To operate GameBond and provide its family gaming features</li>
+            <li><strong>Account Management:</strong> To create and maintain your family account</li>
+            <li><strong>App Improvement:</strong> To improve functionality and user experience for families</li>
+            <li><strong>Technical Support:</strong> To provide customer support and resolve technical issues</li>
+            <li><strong>Security:</strong> To protect against fraud and ensure App security for all users</li>
+            <li><strong>Communication:</strong> To send important updates about GameBond (you can opt out)</li>
+            <li><strong>Content Curation:</strong> To suggest age-appropriate activities and games for your family</li>
+        </ul>
+
+        <p>We do not use your information for advertising, marketing to third parties, or any commercial purposes beyond operating GameBond.</p>
+
+        <h2>4. Information Sharing and Disclosure</h2>
+        <p>We do not sell, trade, or otherwise transfer your personal information to third parties. We may share your information only in these limited circumstances:</p>
+
+        <ul>
+            <li><strong>Service Providers:</strong> With trusted partners who help us operate GameBond (they are bound by confidentiality agreements)</li>
+            <li><strong>Legal Requirements:</strong> When required by law or to protect rights and safety</li>
+            <li><strong>Business Transfer:</strong> In the event of a merger or acquisition (users would be notified)</li>
+            <li><strong>Consent:</strong> With your explicit consent for any other purpose</li>
+        </ul>
+
+        <div class="highlight">
+            <p><strong>Third-Party Services:</strong> GameBond may use third-party services for analytics or technical functionality. These services have their own privacy policies and operate independently from us. We carefully vet any third-party services to ensure they meet our family-safety standards.</p>
+        </div>
+
+        <h2>5. Data Storage and Security</h2>
+        <p>We implement appropriate security measures to protect your family's personal information:</p>
+
+        <ul>
+            <li><strong>Encryption:</strong> Your data is encrypted during transmission and storage</li>
+            <li><strong>Access Controls:</strong> Limited access to personal information on a need-to-know basis</li>
+            <li><strong>Regular Updates:</strong> We regularly update our security measures</li>
+            <li><strong>Local Storage:</strong> Most game data, family preferences, and personal information are stored locally on your device</li>
+            <li><strong>Minimal Data Collection:</strong> We only collect what's necessary to provide GameBond's services</li>
+        </ul>
+
+        <p>However, no method of transmission over the internet is 100% secure. While we strive to protect your personal information, we cannot guarantee absolute security.</p>
+
+        <h2>6. Data Retention</h2>
+        <p>We retain your information for as long as necessary to provide our services:</p>
+
+        <ul>
+            <li><strong>Account Data:</strong> Retained while your account is active</li>
+            <li><strong>Usage Data:</strong> Retained for analytical purposes (anonymized when possible)</li>
+            <li><strong>Technical Data:</strong> Retained for troubleshooting and improvement purposes</li>
+        </ul>
+
+        <p>You can request deletion of your account and associated data at any time by contacting us.</p>
+
+        <h2>7. Your Rights and Choices</h2>
+        <p>You have rights regarding your family's personal information:</p>
+
+        <ul>
+            <li><strong>Access:</strong> You can request access to information we have about you and your family</li>
+            <li><strong>Correction:</strong> You can request correction of inaccurate information</li>
+            <li><strong>Deletion:</strong> You can request deletion of your account and data</li>
+            <li><strong>Opt-Out:</strong> You can opt out of non-essential communications</li>
+        </ul>
+
+        <p>To exercise these rights, contact Laae Collective LLC at <a href="https://forms.gle/aBqt2vpgmUP7p8tT7">https://forms.gle/aBqt2vpgmUP7p8tT7</a>.</p>
+
+        <h2>8. International Data Transfers</h2>
+        <p>Your information may be transferred to and maintained on servers located outside your country of residence. We ensure appropriate safeguards are in place for international transfers and comply with applicable privacy laws.</p>
+
+        <h2>9. Analytics and Tracking</h2>
+        <p>We may use analytics services to understand how GameBond is used and to improve the family gaming experience:</p>
+
+        <ul>
+            <li>These services may use cookies or similar tracking technologies</li>
+            <li>Analytics data is typically anonymized and aggregated</li>
+            <li>We focus on gameplay patterns to improve family activities, not personal identification</li>
+            <li>You can often opt out of analytics tracking through your device settings</li>
+        </ul>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. The current Privacy Policy is accessible via our Terms and Conditions, which is available through the App links.</p>
+
+        <p>Changes become effective when posted. Your continued use of GameBond after changes constitutes acceptance of the new policy.</p>
+
+        <h2>11. Contact Us</h2>
+        <p>If you have any questions, concerns, or requests regarding this Privacy Policy or your family's personal information, please contact Laae Collective LLC:</p>
+
+        <div class="highlight">
+            <p><strong>Contact Form:</strong> <a href="https://forms.gle/aBqt2vpgmUP7p8tT7">https://forms.gle/aBqt2vpgmUP7p8tT7</a></p>
+            <p><strong>Subject:</strong> GameBond - Privacy Policy</p>
+        </div>
+
+        <h2>12. Data Minimization</h2>
+        <p>We follow the principle of data minimization, especially important for family apps:</p>
+
+        <ul>
+            <li>We only collect information that is necessary for GameBond to function properly</li>
+            <li>We don't collect sensitive personal information beyond what's required</li>
+            <li>We regularly review what data we collect and delete unnecessary information</li>
+            <li>Most personal preferences and game data remain on your family's device</li>
+            <li>We prioritize local storage over cloud storage for family data</li>
+        </ul>
+
+        <h2>13. Family Safety Commitment</h2>
+        <div class="highlight">
+            <p><strong>Our Commitment to Family Safety:</strong> GameBond is committed to creating a safe, private environment for families to bond and have fun together. We continuously review our privacy practices to ensure they meet the highest standards for family-oriented applications.</p>
+        </div>
+
+        <p><strong>Safety Features:</strong></p>
+        <ul>
+            <li>Family-appropriate content filters and moderation</li>
+            <li>Age-appropriate activity suggestions</li>
+            <li>Parental controls for content customization</li>
+            <li>Regular security audits and updates</li>
+            <li>Transparent privacy practices</li>
+        </ul>
+
+        <div class="highlight">
+            <p><strong>Questions About Privacy?</strong> We're here to help your family use GameBond safely and privately. If you have any questions about how we protect your family's privacy or handle your data, don't hesitate to contact us. Your family's trust is important to us.</p>
+        </div>
+
+        <hr style="margin: 40px 0; border: 1px solid #ff6b9d; opacity: 0.5;">
+        
+        <p style="text-align: center; color: rgba(255, 255, 255, 0.6); font-size: 14px;">
+            <em>This policy is effective as of the date shown above and replaces any prior privacy policies.</em><br>
+            <strong style="color: #ff6b9d;">GameBond v1.0</strong>
+        </p>
+    </div>
+</body>
+</html>
